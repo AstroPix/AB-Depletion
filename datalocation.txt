@@ -1,0 +1,17 @@
+Data files are stored across various git spaces. 
+
+Some of the data I used is stored in this repository soley because I do not know where it lives, specifically the weekend source scan. 
+
+Analog files:
+All analog files can be found in the analog gitlab repo. The files I am using specifically are:
+chip602_DigitalPaired-0_Americium-241_90min.h5py
+chip602_DigitalPaired-0_Barium-133_180min.h5py
+
+As for digital, those spectra were taken using the old codebase so they live in amanda's repo. 
+
+The files I used were:
+chip602_Barium-133_180min_pix00_100mV_beamDigital_20220713-101351.csv
+chip602_Americium-241_90min_pix00_100mV_beamDigital_20220713-134207.csv
+
+Power supply and digital weekend source scan data live in Amanda's repository in the directory
+GSFCdataFromAutumnsScripts/biasscan_weekend_7-15/
